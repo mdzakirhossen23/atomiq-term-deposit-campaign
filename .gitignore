@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+bank_campaign_participant_release.xlsx
+

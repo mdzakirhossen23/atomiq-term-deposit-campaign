@@ -1,0 +1,32 @@
+{
+  "seeds": {
+    "organizer_split": 42,
+    "validation": 612,
+    "landmarks": 831,
+    "optimizer": 120,
+    "optimizer_shots": 212,
+    "conversion_shots": 313,
+    "monte_carlo": 414,
+    "readout": 515,
+    "stress": 616
+  },
+  "metrics": {
+    "baseline": {
+      "roc_auc": 0.5855525606469003,
+      "average_precision": 0.20162099969555086,
+      "brier": 0.10195806072105792,
+      "log_loss": 0.3612308505900032,
+      "precision_at_10": 0.4,
+      "recall_at_10": 0.11428571428571428
+    },
+    "hybrid": {
+      "roc_auc": 0.5933153638814016,
+      "average_precision": 0.20790603348032383,
+      "brier": 0.10182415294423326,
+      "log_loss": 0.36069025496713747,
+      "precision_at_10": 0.3,
+      "recall_at_10": 0.08571428571428572
+    }
+  }
+}
+

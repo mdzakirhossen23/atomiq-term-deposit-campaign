@@ -63,3 +63,4 @@ Readout correction reduced absolute error from 0.02014 to 0.00401 in this seeded
 ## Business interpretation
 
 The selected set uses less than half the contact budget and has about a 23% modeled chance of hitting the three-subscription target. Start with a small pilot and reassess probability calibration before expanding the campaign. The Stage 3 independence assumption excludes shared market and campaign effects. The exact classical optimum is inexpensive on this instance, and this study makes no quantum speed or accuracy advantage claim.
+
